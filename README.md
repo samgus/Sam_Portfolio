@@ -13,6 +13,8 @@ Mobile Development | Data Science
 - Coded a program that takes NYC open source data and finds the disparities for parks that are not receiving as much funding as other parks, depending on their NYC Zip Code.
 - Utilized: Python
 
+![](https://github.com/samgus/Sam_Portfolio/blob/main/images/Brooklyn.png)
+
 ## [Project 4: Mock Twitter App (iOS): Project Overview](https://github.com/samgus/Twitter)
 - Implemented Twitter features, such as liking, retweeting, posting, logging in/out, and connected the app to my actual Twitter account by calling the Twitter API.
 - Utilized: Swift, Xcode
