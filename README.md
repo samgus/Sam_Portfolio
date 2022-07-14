@@ -1,2 +1,2 @@
-# Sam_Portfolio
+# Sam Gustafsson
 Mobile Development | Data Science
