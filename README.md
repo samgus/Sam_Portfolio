@@ -19,5 +19,4 @@ Mobile Development | Data Science
 - Implemented Twitter features, such as liking, retweeting, posting, logging in/out, and connected the app to my actual Twitter account by calling the Twitter API.
 - Utilized: Swift, Xcode
 
-<img src='http://g.recordit.co/OduCrobkye.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://g.recordit.co/60VpcAT5S1.gif' />
+<img src='http://g.recordit.co/OduCrobkye.gif' /> <img src='http://g.recordit.co/60VpcAT5S1.gif' />
