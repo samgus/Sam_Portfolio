@@ -20,3 +20,4 @@ Mobile Development | Data Science
 - Utilized: Swift, Xcode
 
 <img src='http://g.recordit.co/OduCrobkye.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/60VpcAT5S1.gif' />
