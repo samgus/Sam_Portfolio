@@ -18,3 +18,5 @@ Mobile Development | Data Science
 ## [Project 4: Mock Twitter App (iOS): Project Overview](https://github.com/samgus/Twitter)
 - Implemented Twitter features, such as liking, retweeting, posting, logging in/out, and connected the app to my actual Twitter account by calling the Twitter API.
 - Utilized: Swift, Xcode
+
+<img src='http://g.recordit.co/OduCrobkye.gif'
