@@ -5,7 +5,8 @@ Mobile Development | Data Science
 - Built an iOS app that allows the user to enter a tracking number and will return the details of the tracking item and then will be able to bookmark the tracking item to a list using CoreData.
 - Utilized: Swift, Xcode
 
-![giphy](https://user-images.githubusercontent.com/55809295/179262900-cdc112f8-8b96-4cf8-9a3c-0e26d3a56144.gif)
+![giphy](https://user-images.githubusercontent.com/55809295/179262900-cdc112f8-8b96-4cf8-9a3c-0e26d3a56144.gif) ![giphy-1](https://user-images.githubusercontent.com/55809295/179263316-7625ad68-3c54-4f31-b350-8d3dcad057a3.gif)
+
 
 
 ## [Project 2: Image Recognition App (Data Science): Project Overview](https://github.com/Ernulphus/capstone-Bsharp-AI)
