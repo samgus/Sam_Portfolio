@@ -9,7 +9,7 @@ Mobile Development | Data Science
 - My capstone team and I built an AI app that identifies images of musical instruments. For the project, I programmed a web scraper using Selenium in order to collect over 40,000 images for our AI model to train.
 - Utilized: Python, Selenium
 
-<img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Guitar.jpg" width="200" height="300"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Conga.jpg" width="200" height="300">
+<img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Guitar.jpg" width="200" height="300"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Conga.jpg" width="200" height="200">
 
 <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/FrenchHorn.jpg" width="400" height="300"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Trombone.jpg" width="400" height="300">
 
