@@ -5,6 +5,8 @@ Mobile Development | Data Science
 - Built an iOS app that allows the user to enter a tracking number and will return the details of the tracking item and then will be able to bookmark the tracking item to a list using CoreData.
 - Utilized: Swift, Xcode
 
+<img src='https://media.giphy.com/media/lhE9PQ7kQoGaJF3qdZ/giphy.gif'
+
 ## [Project 2: Image Recognition App (Data Science): Project Overview](https://github.com/Ernulphus/capstone-Bsharp-AI)
 - My capstone team and I built an AI app that identifies images of musical instruments. For the project, I programmed a web scraper using Selenium in order to collect over 40,000 images for our AI model to train.
 - Utilized: Python, Selenium
