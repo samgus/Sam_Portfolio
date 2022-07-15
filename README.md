@@ -11,7 +11,7 @@ Mobile Development | Data Science
 
 <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Guitar.jpg" width="200" height="300"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Conga.jpg" width="200" height="200">
 
-<img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/FrenchHorn.jpg" width="400" height="300"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Trombone.jpg" width="400" height="300">
+<img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/FrenchHorn.jpg" width="200" height="200"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Trombone.jpg" width="300" height="200">
 
 
 ## [Project 3: NYC Park Maintenance (Data Science): Project Overview](https://samgus.github.io)
