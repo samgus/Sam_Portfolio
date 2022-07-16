@@ -13,7 +13,7 @@ Mobile Development | Data Science
 
 ![](images/Guitar.jpg)
 
-<img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Guitar.jpg" width="200" height="300" /> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Conga.jpg" width="200" height="200"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/FrenchHorn.jpg" width="200" height="150"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Trombone.jpg" width="300" height="100">
+<img src="images/Guitar.jpg" width="200" height="300" /> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Conga.jpg" width="200" height="200"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/FrenchHorn.jpg" width="200" height="150"> <img src="https://github.com/samgus/Sam_Portfolio/blob/main/images/Trombone.jpg" width="300" height="100">
 
 ## [Project 3: NYC Park Maintenance (Data Science): Project Overview](https://samgus.github.io)
 - Coded a program that takes NYC open source data and finds the disparities for parks that are not receiving as much funding as other parks, depending on their NYC Zip Code.
